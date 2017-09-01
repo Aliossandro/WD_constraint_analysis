@@ -1,4 +1,4 @@
-# WD_constraint_analysis
+# Wikidata constraint analysis
 This repository contains the scripts and data produced to analyse the influence of property constraints on output and community behaviour in Wikidata.
 An account of this examination can be found in the paper "The costs of freedom: on the role of property constraints in collaborative knowledge graphs", submitted at K-CAP 2017 and currently under review.
 
