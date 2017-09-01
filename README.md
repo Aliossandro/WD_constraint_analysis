@@ -4,7 +4,7 @@ An account of this examination can be found in the paper "The costs of freedom: 
 
 All the data has been extracted from the Wikidata historical dumps updated to February 3, 2016.
 
-The *script* folder contains three files:
+The *script* folder contains five files:
 * *controversy_scores.py* generates monthly controversy scores for each Wikidata property;
 * *property_uses_extractor.py* extracts the property used in each statement;
 * *violation_extraction.R* extracts the number of monthly violations per constraint;
